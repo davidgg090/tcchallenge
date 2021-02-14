@@ -14,6 +14,7 @@ Install the project requirements (within the virtualenv) and migrate to create t
 pip install -r requirements.txt
 python manage.py migrate
 ```
+Install redis server from http://redis.io
 
 ## Run Development Server
 ```
